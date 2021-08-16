@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roykamikharal
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Coding as Full stack Developer
 - 🌱 I’m currently learning JavaScript. Node.js, SASS, React.js
-- 💞️ I’m looking to collaborate on Integrify
+- 💞️ I’m looking to collaborate on anything related to Web Development
 - 📫 You can reach me at muhammad.kamran@integrify.io
 
 <!---
